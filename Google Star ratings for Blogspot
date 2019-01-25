@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "Review",
+"author" : "Durbar Ghosh",
+"reviewBody" : "It is a steal, at this price point, but I'm obsessed with not having enough setting for length.
+",
+"reviewRating" : {
+"@type" : "Rating",
+"ratingValue" : "3.5"
+},
+"itemReviewed" : {
+"@type" : "Product",
+"name": "Nova NHT 1045 Beard Trimmer.",
+"url": "https://digiworkblog.blogspot.com/2017/06/Nova-beard-trimmer-firstlook.html",
+"image": "https://1.bp.blogspot.com/-eWJTSR6napM/WS_sC643TZI/AAAAAAAADEM/67-126P1E6gdSLdTHGtKMB402y8RvMd7QCLcB/s400/Nova_NHT_1045_Beard_Trimmer.jpg"
+,"category": "Men's fashion" ,"offers": {
+"@type": "Offer",
+"price": "350",
+"priceCurrency": "INR"
+}
+}
+}
+</script>
